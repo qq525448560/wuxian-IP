@@ -1,3 +1,11 @@
+环境搭建
+克隆项目到本地。
+安装所需的第三方库: pip install -r requirements.txt
+在Fission_ip.txt中填入至少一个ip(可以是Cloudflare官方的IP，也可以是第三方优选IP)，多个ip按行排列
+运行Fission.py
+多次运行Fission.py即可获取大量优选IP/域名
+
+
 首先“Fission.py”是用来无限撸IP的，
 必须条件，
 Fission_ip.txt必须有一个IP，
