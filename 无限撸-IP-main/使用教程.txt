@@ -1,0 +1,9 @@
+首先“Fission.py”是用来无限撸IP的，
+必须条件，
+Fission_ip.txt必须有一个IP，
+我这里的“Fission_ip - 母体.txt”里面有一些反代IP，
+可以把这里的IP复制到“Fission_ip.txt”文件内，之后保存，
+运行“Fission.py”就开始自动查找IP了，
+查找到的IP会覆盖掉“Fission_ip.txt”文件IP 。
+之后使用工具“排除CF的IP.pyW”来排除CF的IP ，之后会得到反代IP啦。
+但是需要自己使用搭建好的节点，来检查这些IP是否可用，建议使用443端口，来检查。当然你也可以使用8443，2087,2095等等端口来检测。
